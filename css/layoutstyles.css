@@ -1,0 +1,44 @@
+
+/* Footer Styling */
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 1.2rem;
+    color: black
+}
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2rem;
+    color: black;
+}
+
+.body {
+    text-align: center;
+    text-style:normal;
+    margin-bottom:25px;
+    font-size: 1.2rem;
+    color:black
+}
+
+.topleft {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: aliceblue;
+    color: #d3a5cf; /* Matches the theme of the current page */
+    text-decoration: none;
+    background-color: #ffffff;
+    padding: 8px 12px;
+    border-radius: 5px;
+    border: 2px solid #d3a5cf;
+    transition: background-color 0.3s ease, color 0.3s ease
+}
+
+.top-left-link:hover {
+    background-color: #d3a5cf;
+    color: #ffffff;
+}
+
